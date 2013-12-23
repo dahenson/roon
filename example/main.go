@@ -15,7 +15,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	fmt.Printf("Posts from %s %s\n", b.User.GivenName, b.User.FamilyName)
+	fmt.Printf("Posts from %s\n", b.User.Username)
 	for _, post := range *posts {
 		fmt.Println(post.Title)
 	}
