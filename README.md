@@ -1,5 +1,7 @@
 # roon
 
+## _This is an unfinished wrapper for a service that no longer exists... YMMV_
+
 Just another [Roon API](https://roon.io/developer) wrapper. [Roon](https://roon.io) is one of the slickest blog farms on the internet. Go get a blog, then `go get` this api wrapper and start hacking!
 
 ## Install
